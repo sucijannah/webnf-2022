@@ -1,0 +1,43 @@
+body {
+    background-color: royalblue;
+    font-family: 'Lucida Sans', verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+p {
+    text-align: justify;
+    width: fit-content;
+}
+
+.center {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.foto {
+    background-color: aqua;
+}
+
+.foto img {
+    width: 23%
+}
+
+.cod {
+    margin: auto;
+    width: 80%;
+}
+
+.cod p {
+    background-color: aqua;
+    border: 5px dotted red;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+    display: block;
+    margin: 0 auto;
+}
