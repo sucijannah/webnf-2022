@@ -1,0 +1,38 @@
+#header{
+    background-color: lightpink;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+blockquote{
+    background-color: yellow;
+    border: 1px dotted black;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-bar-li{
+    display: inline;
+}
+
+.gambar{
+    text-align: center;
+    background-color: aqua;
+}
+
+.jawa{
+    color:blue;
+    font-size: 50px;
+    font-weight: bold;
+}
